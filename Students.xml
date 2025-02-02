@@ -1,3 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
+	<Student>
+		<FullName>Петров Петр Петрович</FullName>
+		<BirthDate>1995-07-23</BirthDate>
+		<CourseNumber>4</CourseNumber>
+		<StudDoc>
+			<Serial>00AA</Serial>
+			<Number>123321</Number>
+		</StudDoc>
+	</Student>
+	<Student>
+		<FullName>Обломов Илья Ильич</FullName>
+		<BirthDate>185-03-14</BirthDate>
+		<CourseNumber>6</CourseNumber>
+		<StudDoc>
+			<Serial>00A1</Serial>
+			<Number>123654</Number>
+		</StudDoc>
+	</Student>
 </root>
