@@ -1,3 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
+	<Student>
+		<FullName>Денисов Денис Денисович</FullName>
+		<BirthDate>1985-04-12</BirthDate>
+		<CourseNumber>2</CourseNumber>
+		<StudDoc>
+			<Serial>00A5</Serial>
+			<Number>123323</Number>
+		</StudDoc>
+	</Student>
+	<Student>
+		<FullName>Александров Сергей Выдуманович</FullName>
+		<BirthDate>1805-06-03</BirthDate>
+		<CourseNumber>6</CourseNumber>
+		<StudDoc>
+			<Serial>0021</Serial>
+			<Number>325167</Number>
+		</StudDoc>
+	</Student>
+	<Student>
+		<FullName>Йозенштерг Гамбург Антарктикович</FullName>
+		<BirthDate>1831-02-07</BirthDate>
+		<CourseNumber>6</CourseNumber>
+		<StudDoc>
+			<Serial>10A1</Serial>
+			<Number>023156</Number>
+		</StudDoc>
+	</Student>
 </root>
