@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
 	<Student>
-		<FullName>Петров Петр Петрович</FullName>
-		<BirthDate>1995-07-23</BirthDate>
+		<FullName>Иванов Иван Иванович</FullName>
+		<BirthDate>1965-07-23</BirthDate>
 		<CourseNumber>4</CourseNumber>
 		<StudDoc>
 			<Serial>00AA</Serial>
@@ -10,8 +10,8 @@
 		</StudDoc>
 	</Student>
 	<Student>
-		<FullName>Обломов Илья Ильич</FullName>
-		<BirthDate>185-03-14</BirthDate>
+		<FullName>Ильин Илья Ильич</FullName>
+		<BirthDate>1815-03-14</BirthDate>
 		<CourseNumber>6</CourseNumber>
 		<StudDoc>
 			<Serial>00A1</Serial>
