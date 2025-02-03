@@ -19,12 +19,12 @@
 		</StudDoc>
 	</Student>
 	<Student>
-		<FullName>Йозенштерг Гамбург Антарктикович</FullName>
-		<BirthDate>1831-02-07</BirthDate>
+		<FullName>Ильин Илья Ильич</FullName>
+		<BirthDate>1815-03-14</BirthDate>
 		<CourseNumber>6</CourseNumber>
 		<StudDoc>
-			<Serial>10A1</Serial>
-			<Number>023156</Number>
+			<Serial>00A1</Serial>
+			<Number>123654</Number>
 		</StudDoc>
 	</Student>
 </root>
